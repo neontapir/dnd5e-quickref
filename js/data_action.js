@@ -2,7 +2,7 @@ data_action = [
     {
         title: "Attack",
         icon: "crossed-swords",
-        subtitle: "Melee or ranged attack",
+        subtitle: "Melee/ranged attack for harming",
         description: "Perform a melee or ranged attack with your weapon",
         reference: "PHB, pgs. 192,194-195.",
         bullets: [
@@ -16,7 +16,7 @@ data_action = [
     {
         title: "Grapple",
         icon: "grab",
-        subtitle: "Special melee attack",
+        subtitle: "Melee attack for binding",
         description: "Attempt to grab a creature or wrestle with it",
         reference: "PHB, pg. 195.",
         bullets: [
@@ -29,7 +29,7 @@ data_action = [
     {
         title: "Shove",
         icon: "hand",
-        subtitle: "Special melee attack",
+        subtitle: "Melee attack for pushing",
         description: "Shove a creature, either to knock it prone or push it away from you",
         reference: "PHB, pg. 195.",
         bullets: [
@@ -106,7 +106,7 @@ data_action = [
         ]
     },
     {
-        title: "Use Object",
+        title: "Use object",
         icon: "snatch",
         subtitle: "Interact, use special abilities",
         description: "Interact with a second object or use special object abilities",
@@ -130,7 +130,7 @@ data_action = [
     {
         title: "Hide",
         icon: "hood",
-        subtitle: "",
+        subtitle: "Conceal yourself",
         description: "Attempt to hide",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -144,7 +144,7 @@ data_action = [
     {
         title: "Search",
         icon: "magnifying-glass",
-        subtitle: "",
+        subtitle: "Focus on finding something",
         description: "Devote your attention to finding something",
         reference: "PHB, pg. 193.",
         bullets: [
@@ -154,7 +154,7 @@ data_action = [
     {
         title: "Ready",
         icon: "stopwatch",
-        subtitle: "Choose trigger and action",
+        subtitle: "Choose trigger, act when it occurs",
         description: "Choose a trigger and a response reaction",
         reference: "PHB, pg. 193.",
         bullets: [
@@ -169,7 +169,7 @@ data_action = [
         icon: "embrassed-energy",
         subtitle: "Some features use actions",
         description: "Use a racial or class feature that uses an action",
-        reference: "See class page for more information.",
+        reference: "See class section for more information.",
         bullets: [
 
         ]
@@ -177,7 +177,7 @@ data_action = [
     {
         title: "Stabilize a creature",
         icon: "first-aid",
-        subtitle: "Administer first aid to a dying creature",
+        subtitle: "Give first aid to a dying creature",
         description: "Stop a dying creature from needing to make death saving throws",
         reference: "PHB, pg. 197.",
         bullets: [

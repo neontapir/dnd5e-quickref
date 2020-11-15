@@ -28,7 +28,7 @@ data_bonusaction = [
         icon: "embrassed-energy",
         subtitle: "Some features use bonus actions",
         description: "Use a racial or class feature that uses a bonus action",
-        reference: "See class page for more information.",
+        reference: "See class section for more information.",
         bullets: [
 
         ]

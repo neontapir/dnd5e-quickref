@@ -166,6 +166,25 @@
     color: ForestGreen;
 }
 
+#section-class-action, #section-class-action .item-icon {
+    background-color: #333399;
+    border-color: #333399;
+}
+
+#section-class-action .text {
+    color: #333399;
+}
+
+#section-class-bonus, #section-class-bonus .item-icon {
+    background-color: #333399;
+    border-color: #333399;
+}
+
+#section-class-bonus .text {
+    color: #333399;
+}
+
+
 
 /* ------------------------------------------------------------------------- */
 /* Page container */
